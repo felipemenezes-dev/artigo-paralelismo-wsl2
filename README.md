@@ -20,5 +20,4 @@ Repositório contendo os dados experimentais utilizados no artigo científico so
 ## Arquivos
 
 - resultados.csv
-- artigo.tex
-- figuras
+- executar_sysbench.sh
