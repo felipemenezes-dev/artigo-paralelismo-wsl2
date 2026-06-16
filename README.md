@@ -65,5 +65,6 @@ threads,events_per_second
 
 ## Autores
 
-- Felipe Menezes — [@felipemenezes-dev](https://github.com/felipemenezes-dev)
-- Natan Luis Pereira dos Santos 
+- Diego Gomes
+- Felipe Menezes 
+- Natan Luis
